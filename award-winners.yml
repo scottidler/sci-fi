@@ -1,3 +1,62 @@
+  - 2026:
+      - title: The Everlasting
+        author: Alix E. Harrow
+        awards:
+          - Hugo
+          - Locus
+        year: 2026
+      - title: The Buffalo Hunter Hunter
+        author: Stephen Graham Jones
+        awards:
+          - Nebula
+        year: 2026
+      - title: Death of the Author
+        author: Nnedi Okorafor
+        awards:
+          - Locus
+        year: 2026
+  - 2025:
+      - title: The Tainted Cup
+        author: Robert Jackson Bennett
+        awards:
+          - Hugo
+        year: 2025
+      - title: Someone You Can Build a Nest In
+        author: John Wiswell
+        awards:
+          - Nebula
+        year: 2025
+      - title: The Man Who Saw Seconds
+        author: Alexander Boldizar
+        awards:
+          - Locus
+        year: 2025
+      - title: A Sorceress Comes to Call
+        author: T. Kingfisher
+        awards:
+          - Locus
+        year: 2025
+  - 2024:
+      - title: Some Desperate Glory
+        author: Emily Tesh
+        awards:
+          - Hugo
+        year: 2024
+      - title: The Saint of Bright Doors
+        author: Vajra Chandrasekera
+        awards:
+          - Nebula
+        year: 2024
+      - title: System Collapse
+        author: Martha Wells
+        awards:
+          - Locus
+        year: 2024
+      - title: Witch King
+        author: Martha Wells
+        awards:
+          - Locus
+        year: 2024
   - 2023:
       - title: Nettle & Bone
         author: T. Kingfisher
@@ -23,7 +82,7 @@
           - Locus
         year: 2022
       - title: A Master of Djinn
-        author: P. Djčlí Clark
+        author: P. Djèlí Clark
         awards:
           - Nebula
         year: 2022
